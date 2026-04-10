@@ -3,7 +3,7 @@
 int main()
 {
     float a,b,c;
-    printf("bienvenido al programa de promedio");
+    printf("veamos si pasas");
      do
     {
         printf("Ingrese el numero 1: ");
