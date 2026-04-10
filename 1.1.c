@@ -3,15 +3,15 @@
 int main()
 {
     float a,b,c;
-    printf("veamos si pasas");
+    printf("hola");
      do
     {
-        printf("Ingrese el primer numero: ");
+        printf("Ingrese un numero: ");
         scanf("%f",&a);
     }while(a<0 || a>20);
     do
     {
-        printf("Ingrese el segundo numero: ");
+        printf("Ingrese un segundo numero: ");
         scanf("%f",&b);
     }while(b<0 || b>20);
 c=(a+b)/2;
