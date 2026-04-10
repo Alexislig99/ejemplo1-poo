@@ -6,12 +6,12 @@ int main()
     printf("veamos si pasas");
      do
     {
-        printf("Ingrese el numero 1: ");
+        printf("Ingrese el primer numero: ");
         scanf("%f",&a);
     }while(a<0 || a>20);
     do
     {
-        printf("Ingrese el numero 2: ");
+        printf("Ingrese el segundo numero: ");
         scanf("%f",&b);
     }while(b<0 || b>20);
 c=(a+b)/2;
